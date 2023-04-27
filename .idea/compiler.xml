@@ -10,6 +10,7 @@
         <module name="CoreJavaTraining" />
         <module name="EcommorceFramework" />
         <module name="TestNGDemo" />
+        <module name="GitTestA" />
       </profile>
     </annotationProcessing>
   </component>
