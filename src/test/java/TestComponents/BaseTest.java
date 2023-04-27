@@ -39,6 +39,9 @@ public class BaseTest {
         System.out.println("Apurva");
         System.out.println("Naik");
 
+        System.out.println("Ajinkya");
+        System.out.println("Naik");
+
 
         String browserName =System.getProperty("Browser")!=null ? System.getProperty("Browser") :  prop.getProperty("Browser");
         //String browserName = prop.getProperty("Browser");
