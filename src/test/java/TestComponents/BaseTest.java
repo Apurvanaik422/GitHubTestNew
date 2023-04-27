@@ -35,6 +35,10 @@ public class BaseTest {
         FileInputStream fis = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\java\\Resources\\GlobalProperties.properties");
         prop.load(fis);
 
+        //Added Comments for Base Class
+        System.out.println("Apurva");
+        System.out.println("Naik");
+
 
         String browserName =System.getProperty("Browser")!=null ? System.getProperty("Browser") :  prop.getProperty("Browser");
         //String browserName = prop.getProperty("Browser");
