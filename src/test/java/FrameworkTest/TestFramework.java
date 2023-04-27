@@ -8,4 +8,11 @@ public class TestFramework {
     public void testNg(){
         System.out.println("TestNG Framework");
     }
+    public void maven(){
+        System.out.println("Maven Framework");
+    }
+
+    public void mobile(){
+        System.out.println("Mobile Framework");
+    }
 }
